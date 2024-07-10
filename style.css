@@ -1,0 +1,45 @@
+body{
+    background: url();
+    background: url(img.2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main{
+    height: 400px;
+    width: 550px;
+    border: 5px solid white;
+    margin: auto;
+    margin-top: 150px;
+    background: url(img.9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#rules{
+    text-align: justify;
+    margin-left: 120px;
+    margin-bottom: 20px;
+
+}
+h2{
+    color: purple;
+    text-shadow: 3px 3px 3px pink;
+}
+button{
+    border-radius: 10px;
+    height: 45px;
+    width: 85px;
+    color: black;
+    background-color: aquamarine;
+    background: url(img.5.jpg);
+    b
+}
+#n1{
+    height: 35px;
+    width: 250px;
+    border-radius: 5px solid black;
+}
+#b1{
+
+    margin-right: 50px;
+}
